@@ -6,3 +6,10 @@ tenants:
     tenant_scm_org: WOWCORP-AAP-CAC
     repo_mode: create
     status: active
+  - tenant_id: retail
+    onboarding_mode: greenfield
+    aap_organization: retail
+    team_name: Retail Automation
+    tenant_scm_org: WOWCORP-AAP-CAC
+    repo_mode: create
+    status: active
