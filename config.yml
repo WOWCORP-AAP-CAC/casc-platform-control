@@ -6,7 +6,7 @@ control_branch: "main"
 platform_scm_org: "WOWCORP-AAP-CAC"
 platform_repo: "casc-platform-global"
 create_missing_env_branches: true
-bootstrap_dispatch_fanout: true
+bootstrap_dispatch_fanout: false
 dispatcher_concurrency: serialized
 
 job_templates:
