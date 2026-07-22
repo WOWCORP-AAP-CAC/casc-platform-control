@@ -13,3 +13,10 @@ tenants:
     tenant_scm_org: WOWCORP-AAP-CAC
     repo_mode: create
     status: active
+  - tenant_id: bad_team
+    onboarding_mode: greenfield
+    aap_organization: bad_team
+    team_name: Bad Team Name
+    tenant_scm_org: WOWCORP-AAP-CAC
+    repo_mode: create
+    status: active
