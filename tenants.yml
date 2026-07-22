@@ -1,2 +1,8 @@
 ---
-tenants: []
+tenants:
+  - tenant_id: stores
+    onboarding_mode: greenfield
+    team_name: Stores Automation
+    tenant_scm_org: WOWCORP-AAP-CAC
+    repo_mode: create
+    status: active
