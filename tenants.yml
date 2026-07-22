@@ -12,4 +12,5 @@ tenants:
     team_name: Retail Automation
     tenant_scm_org: WOWCORP-AAP-CAC
     repo_mode: create
-    status: active
+    status: inactive
+    dispatch_enabled: false
