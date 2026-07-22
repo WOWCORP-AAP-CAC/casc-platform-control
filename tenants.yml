@@ -22,3 +22,10 @@ tenants:
     repo_mode: create
     status: active
     dispatch_enabled: false
+  - tenant_id: finance
+    onboarding_mode: greenfield
+    aap_organization: finance
+    team_name: Finance Automation
+    tenant_scm_org: WOWCORP-AAP-CAC
+    repo_mode: create
+    status: active
