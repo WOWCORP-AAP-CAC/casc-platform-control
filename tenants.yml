@@ -14,3 +14,11 @@ tenants:
     repo_mode: create
     status: inactive
     dispatch_enabled: false
+  - tenant_id: warehouse
+    onboarding_mode: greenfield
+    aap_organization: warehouse
+    team_name: Warehouse Automation
+    tenant_scm_org: WOWCORP-AAP-CAC
+    repo_mode: create
+    status: active
+    dispatch_enabled: false
